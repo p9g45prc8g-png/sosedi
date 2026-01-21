@@ -67,8 +67,8 @@ header h2 {
 }
 
 #main-content {
-  float: right;
-  width: 690px;
+  float: left;
+  width: 900px;
 }
 
 #main-content img {
@@ -76,7 +76,7 @@ header h2 {
 }
 
 aside#sidebar {
-  float: left;
+  float: right;
   width: 200px;
   min-height: 504px;
   padding-left: 20px;
