@@ -11,7 +11,7 @@ layout: default
 
 # А вот здесь мы проверим ссылку на другой MD
 ---
-[Ссылочка на МД](docs/CODE_OF_CONDUCT.md)
+[Ссылочка на МД](./testpage.md)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
